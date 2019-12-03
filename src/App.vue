@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    Day la resultt: {{ result}} <br/>
+    Day la result: {{ result}} <br/>
      Day la name result: {{ nameResult}}
      <button @click="abc">clik</button>
     <Create @addItem="addItem"></Create>
